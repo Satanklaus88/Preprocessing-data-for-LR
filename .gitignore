@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#answers
+preprocessing_lr_answer1.txt
+preprocessing_lr_answer2.txt
+preprocessing_lr_answer3.txt
+preprocessing_lr_answer4.txt
+preprocessing_lr_answer5.txt
+preprocessing_lr_answer6.txt
